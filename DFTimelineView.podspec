@@ -26,7 +26,6 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency 'DFCommon', '~> 1.3.7'
-  s.dependency 'AFNetworking', '~> 2.6.0'
   s.dependency 'SDWebImage', '~> 3.7.3'
   s.dependency 'FMDB', '~> 2.5'
   s.dependency 'MBProgressHUD', '~> 0.9.1'
