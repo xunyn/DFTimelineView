@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.version      = "1.2.8"
   s.summary      = "仿微信朋友圈"
 
-  s.homepage     = "https://github.com/anyunzhong/DFTimelineView"
+  s.homepage     = "https://github.com/xunyn/DFTimelineView"
 
   s.license      = "Apache 2.0"
 
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "7.0"
 
 
-  s.source       = { :git => "https://github.com/anyunzhong/DFTimelineView.git", :tag => "1.2.8" }
+  s.source       = { :git => "https://github.com/xunyn/DFTimelineView.git", :tag => "1.2.8" }
 
 
   s.source_files = "DFTimelineView/DFTimelineView/**/*.{h,m}"
